@@ -6,3 +6,6 @@ Noting all the important links for Data Cleaning.
 Imputation Resources:
 # Important link: https://towardsdatascience.com/handling-missing-values-in-machine-learning-part-2-222154b4b58e
 # https://scikit-learn.org/stable/auto_examples/impute/plot_iterative_imputer_variants_comparison.html
+
+Map of DataScience
+https://www.saedsayad.com/data_mining_map.htm
