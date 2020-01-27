@@ -1,1 +1,8 @@
+HousePrices_Practice1.ipynb
+Comprehensive Data Exploration with Python:
 https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+Completed on 27 of Jan, 2019.
+
+House Prices EDA
+https://www.kaggle.com/dgawlik/house-prices-eda
+Started on 27 of Jan, 2019.
