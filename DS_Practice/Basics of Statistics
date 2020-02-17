@@ -1,0 +1,39 @@
+Mutually Exclusive Events: Two events are mutually exclusive when they both cannot occur at the same time.
+
+While flipping a coin:
+Event A: The outcome is a Head
+Event B: The outcome is a Tail
+
+P(AUB) = P(A)+P(B)
+
+Independent Events: Two events are said to be independent when the occurance of one event does not affect the outcome of other event and vice versa.
+
+Event A: The first flip of a coin is a Head
+Event B: The second flip of a coin is a Head
+
+P(AUB) = P(A)+P(B)-P(A)*P(B)
+
+Conditional Probability:
+The probability of event X given that event y has already occured.
+P(X|Y)
+
+Formula of Conditional Probability, P(X|Y) = P(X and Y) / P(Y)
+
+If X and Y are mutually exclusive.
+P(X and Y) is 0
+Hence, P(X|Y) = 0
+
+If X and Y are independent events,
+P(X and Y) is P(X)*P(Y)
+Hence, P(X|Y) = P(X)
+
+Product rule: P(X and y) = P(X|y)*P(Y)
+
+Bayes Theorem
+
+P(X and Y) = P(X|Y) * P(Y)
+P(Y and X) = P(Y|X) * P(X)
+
+as both P(X and Y), P(Y and X) are the same,
+
+P(X|Y) = (P(Y|X) * P(X))/P(Y)
