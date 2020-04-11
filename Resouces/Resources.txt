@@ -9,3 +9,6 @@ Imputation Resources:
 
 Map of DataScience
 https://www.saedsayad.com/data_mining_map.htm
+
+Andrew NG
+https://see.stanford.edu/Course/CS229
