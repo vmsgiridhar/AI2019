@@ -161,6 +161,8 @@ class city():
             # Generally only MCs will be constructed here
             print('At the Mountains')
             return('MC')
+        if row == 4:
+            # Generally these are on to the entry points to the city.
             
         else:
             print('In the city')
