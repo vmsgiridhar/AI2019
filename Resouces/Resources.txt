@@ -12,3 +12,6 @@ https://www.saedsayad.com/data_mining_map.htm
 
 Andrew NG
 https://see.stanford.edu/Course/CS229
+
+More about Regression:
+https://www.dropbox.com/s/py3ns8ltraoexfi/Youtube%20-%20Regression%20-%20Video%20Exp%20%232.mov?dl=0
