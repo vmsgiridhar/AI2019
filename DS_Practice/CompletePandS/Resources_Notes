@@ -1,0 +1,22 @@
+Working on Iris flower data set (Anderson's Iris Dataset) Dataset on Fri 29 May, 2020.
+Links regarding learning of Iris flower data set
+1. https://en.wikipedia.org/wiki/Iris_flower_data_set
+2. https://en.wikipedia.org/wiki/Linear_discriminant_analysis
+
+Important Note: Linear Discriminant Analysis vs ANOVA (Analysis of Varience)
+ANOVA uses Categorical Independent Variables and Continuous Dependent Variable.
+LDA uses Continuous Independent Varaibales and a Categorical Dependent Variable. (Logistic Regression and Probit Regression are more related to LDA than ANOVA as they express a Categorical Dependent Variable by the continuous values of Independent variables.
+
+Exploratory Data Analysis - on Iris Flower data set (https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+1. Steps of Data Exploration and Preparation
+Below are the steps involved to understand, clean and prepare your data for building your predictive model:
+
+Variable Identification 
+Univariate Analysis - Includes, Boxplot, Violinplot, Probability Density Function (PDF) & Cumulative Distribution Function (CDF)
+Bi-variate Analysis
+Missing values treatment
+Outlier treatment
+Variable transformation
+Variable creation
+Finally, we will need to iterate over steps 4 – 7 multiple times before we come up with our refined model.
+
