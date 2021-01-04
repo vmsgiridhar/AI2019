@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acbc9128-e10c-4084-831e-6169d68e7ef1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.ipynb_checkpoints/TensorflowLite_Regression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.ipynb_checkpoints/TensorflowLite_Regression-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TensorflowLite_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../TensorflowLite_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tflite-apps.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1lgUZgKrNkCZgbAZXeeS5QJMEQh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="Gradle./Users/z003z7n/Documents/AI2019/Tensorflow/TF2020/Tutorials_Google/TensorflowLite/ObjectDetectionApp/object_detection [clean]">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="true" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="true" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/z003z7n/Documents/AI2019/Tensorflow/TF2020/Tutorials_Google/TensorflowLite/ObjectDetectionApp/object_detection [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/z003z7n/Documents/AI2019/Tensorflow/TF2020/Tutorials_Google/TensorflowLite/ObjectDetectionApp/object_detection" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./Users/z003z7n/Documents/AI2019/Tensorflow/TF2020/Tutorials_Google/TensorflowLite/ObjectDetectionApp/object_detection [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acbc9128-e10c-4084-831e-6169d68e7ef1" name="Default Changelist" comment="" />
+      <created>1608018284462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608018284462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="23" key="#CasualRunAndroidApp" timestamp="1608019053821">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="321" y="23" key="#CasualRunAndroidApp/0.23.1280.728@0.23.1280.728" timestamp="1608019053821" />
+    <state x="516" y="257" key="#Notifications" timestamp="1608026021843">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="516" y="257" key="#Notifications/0.23.1280.729@0.23.1280.729" timestamp="1608026021843" />
+    <state x="128" y="23" key="#Project_Structure" timestamp="1608026165420">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.728@0.23.1280.728" timestamp="1608021165389" />
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.729@0.23.1280.729" timestamp="1608026165420" />
+    <state x="342" y="118" key="#Servers" timestamp="1608027717329">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="342" y="118" key="#Servers/0.23.1280.729@0.23.1280.729" timestamp="1608027717329" />
+    <state x="321" y="23" key="#Unnamed" timestamp="1608025003196">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="321" y="23" key="#Unnamed/0.23.1280.728@0.23.1280.728" timestamp="1608025003196" />
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608026003101">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.728@0.23.1280.728" timestamp="1608024959552" />
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729@0.23.1280.729" timestamp="1608026003101" />
+    <state x="100" y="123" width="1080" height="528" key="AVDManager" timestamp="1608025414070">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="100" y="123" width="1080" height="528" key="AVDManager/0.23.1280.728@0.23.1280.728" timestamp="1608022369957" />
+    <state x="100" y="123" width="1080" height="528" key="AVDManager/0.23.1280.729@0.23.1280.729" timestamp="1608025414070" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1608046455004">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1608024973417" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1608027411477" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1608046455004" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1608046455003">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1608024973416" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1608027411477" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1608046455003" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1608046455003">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1608024973416" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1608027411476" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1608046455003" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1608046455003">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1608024973417" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1608027411477" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1608046455003" />
+    <state width="1238" height="181" key="GridCell.Tab.1.bottom" timestamp="1608025338030">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1608021040827" />
+    <state width="1238" height="181" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1608025338030" />
+    <state width="1238" height="181" key="GridCell.Tab.1.center" timestamp="1608025338029">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1608021040827" />
+    <state width="1238" height="181" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1608025338029" />
+    <state width="1238" height="181" key="GridCell.Tab.1.left" timestamp="1608025338029">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1608021040826" />
+    <state width="1238" height="181" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1608025338029" />
+    <state width="1238" height="181" key="GridCell.Tab.1.right" timestamp="1608025338030">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1608021040827" />
+    <state width="1238" height="181" key="GridCell.Tab.1.right/0.23.1280.729@0.23.1280.729" timestamp="1608025338030" />
+    <state x="141" y="26" key="SettingsEditor" timestamp="1608028190691">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="141" y="26" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1608028190691" />
+    <state x="305" y="173" width="670" height="675" key="run.anything.popup" timestamp="1608026618240">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="305" y="173" width="670" height="675" key="run.anything.popup/0.23.1280.729@0.23.1280.729" timestamp="1608026618240" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/object_detection$_Users_z003z7n_Documents_AI2019_Tensorflow_TF2020_Tutorials_Google_TensorflowLite_ObjectDetectionApp_object_detection.ic" NAME="$PROJECT_DIR$/../object_detection Coverage Results" MODIFIED="1608026113373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
