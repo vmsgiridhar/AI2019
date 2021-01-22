@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test1.jpg</filename>
+	<path>/Users/z003z7n/Documents/labelImg/bullseye/test/test1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1032</width>
+		<height>1376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bullseye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>532</ymin>
+			<xmax>516</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

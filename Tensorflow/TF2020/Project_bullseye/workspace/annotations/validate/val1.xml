@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>val1.jpg</filename>
+	<path>/Users/z003z7n/Documents/labelImg/bullseye/validate/val1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bullseye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1174</xmin>
+			<ymin>1354</ymin>
+			<xmax>2010</xmax>
+			<ymax>2197</ymax>
+		</bndbox>
+	</object>
+</annotation>

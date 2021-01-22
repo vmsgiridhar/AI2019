@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train5.jpg</filename>
+	<path>/Users/z003z7n/Documents/AI2019/Tensorflow/TF2020/Project_bullseye/workspace/images/train/train5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bullseye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1191</xmin>
+			<ymin>1743</ymin>
+			<xmax>1535</xmax>
+			<ymax>2111</ymax>
+		</bndbox>
+	</object>
+</annotation>
